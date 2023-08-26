@@ -10,11 +10,11 @@ Mongo Express in Kubernetes cluster and Expose Mongo Express as External Service
 
 
 ### Installation Guide
-Get Instruction for MiniKube Installation at [https://minikube.sigs.k8s.io/docs/start/](MINIKUBE INSTALLATION)
+Get Instruction for MiniKube Installation at https://minikube.sigs.k8s.io/docs/start/
 
 
 ### BASE64 Encodings
-Encode the Secret Values into base64 with [https://www.base64encode.org/](BASE64 ENCODING WEBSITE)
+Encode the Secret Values into base64 with https://www.base64encode.org/
 
 
 
